@@ -43,15 +43,6 @@ The dashboard is clean, interactive, and ideal for real-world business intellige
 
 ---
 
-## 🤝 Connect With Me
-
-I’m always open to collaborations, internships, or feedback on my work:
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/anushree-sharma-9a4253272)
-- 📧 Email: anushreesharma011@gmail.com
-
----
-
 ## ⭐ Like this project?
 
 If you found this dashboard helpful or interesting, please consider **starring** the repo and sharing your thoughts!
